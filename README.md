@@ -7,6 +7,15 @@ The recent introduction of transformer-based models and attention mechanisms in 
 ## Architectures involved:
 ### SUIM-Net
  ![image](https://user-images.githubusercontent.com/43600130/167754214-e5e5cba7-895b-4a00-b3c4-5c36e1d18f9e.png)
+ ![image](https://user-images.githubusercontent.com/43600130/167754283-1669f9fc-a84c-4ee2-a4d2-f67ae3dde93e.png)
+### Efficient Channel Attention block
+ ![image](https://user-images.githubusercontent.com/43600130/167754347-2df493cf-f25c-4c91-8d96-90c7ec5ccb70.png)
+### Triplet Attention block
+ ![image](https://user-images.githubusercontent.com/43600130/167754430-69e801d7-9d30-41bb-ac8a-d5cf4fd424b7.png)
+
+## Results:
+ ![image](https://user-images.githubusercontent.com/43600130/167754478-13827ca3-f3c6-423f-ad96-d2e990edf3e5.png)
+ ![image](https://user-images.githubusercontent.com/43600130/167754493-dee4247e-7d08-4f4f-ac9e-07db8d555fb8.png)
 
  
 ## Experiment setup
