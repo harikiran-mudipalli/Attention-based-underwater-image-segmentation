@@ -1,0 +1,7 @@
+In the field of computer vision, semantic segmentation is a common problem. The visual attention mechanism, as one of the most fundamental elements of the human visual system, is critical in picture formation, scene classification, target detection, and tracking when used in computer vision. The goal of this project is to apply the attention mechanism to SUIM-Net on underwater photographs. We first ran SUIM-Net with Residual Skip Block version and then experimented with adding the Efficient Channel Attention and Triplet Attention modules to the skip connections in SUIM-NetRSB to observe the effect of attention modules.
+
+References:
+https://arxiv.org/pdf/2004.01241.pdf
+https://arxiv.org/pdf/1910.03151.pdf
+https://arxiv.org/pdf/2010.03045.pdf
+https://iopscience.iop.org/article/10.1088/1742-6596/1693/1/012173/pdf
