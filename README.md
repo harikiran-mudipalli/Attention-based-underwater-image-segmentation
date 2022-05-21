@@ -1,5 +1,5 @@
 # Attention based underwater image segmentation
-## Abstarct
+## Abstract
 Semantic Segmentation is a popular problem in the computer vision domain which is used for estimating scene geometry, inferring interactions and spatial relationships among objects, salient object identification, etc., [1]. On a broader level, segmentation involves three steps, classifying certain objects in an image, localizing them, and grouping the pixels in the localized image by creating a segmentation mask [8].<p>
  
 The recent introduction of transformer-based models and attention mechanisms in computer vision tasks has taken the spotlight. In this project, we are interested in applying the attention mechanism to a new segmentation model from [1] to underwater images. Semantic segmentation of underwater images is not well explored as in the case with terrestrial object segmentation. Authors of [1] have curated a dataset called Segmentation of Underwater IMagery (SUIM) and implemented SOTA segmentation models on it to compare with their model called SUIM-Net. We tweaked the SUIM-Net Residual Skip Block (RSB) by experimenting with the Efficient Channel Attention module [2] and Triplet Attention module [3] inside the SUIM-Net.<br>
